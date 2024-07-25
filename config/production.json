@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://deepu2004:deepu2004@devconnector.cntstlv.mongodb.net/",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "Ov23liBVtB1L1wcNwKsD",
+  "githubSecret": "81213bfef8d6723b3987e00a452037099fb5f9df"
+}
